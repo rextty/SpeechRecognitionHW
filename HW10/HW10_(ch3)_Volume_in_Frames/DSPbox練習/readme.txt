@@ -1,0 +1,1 @@
+將語音切成 frames 功能 寫在frameMat的函式中
